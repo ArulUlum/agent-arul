@@ -1,0 +1,16 @@
+{
+  "bot_token": "GANTI_DENGAN_TOKEN_DARI_BOTFATHER",
+  "owner_id": 123456789,
+  "download_dir": "downloads",
+  "shell_enabled": true,
+  "shell_timeout_sec": 30,
+  "chrome_debug_url": "http://localhost:9222",
+  "battery_alert_percent": 20,
+  "router_base_url": "http://localhost:20128/v1",
+  "router_api_key": "GANTI_DENGAN_API_KEY_9ROUTER",
+  "router_model": "claude-combo",
+  "agent_max_steps": 25,
+  "agent_mode": "auto",
+  "browser_profile_dir": "browser_profile",
+  "browser_headless": true
+}

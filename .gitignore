@@ -1,0 +1,27 @@
+config.json
+client_secret.json
+yt_token.json
+bot.log
+downloads/
+browser_profile/
+__pycache__/
+*.pyc
+.venv/
+venv/
+memory/
+state/
+
+# sampah & debug
+*.log
+out.txt
+p1.txt
+yt_out.txt
+dbg.png
+dbg_li.py
+apply_dry.*
+
+# skrip tugas pribadi (bukan bagian bot)
+job_apply.py
+yt_upload.py
+check_jobs.ps1
+fresh_jobs.ps1

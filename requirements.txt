@@ -1,0 +1,11 @@
+python-telegram-bot[job-queue]>=21,<22
+psutil>=5.9
+mss>=9.0
+Pillow>=10.0
+playwright>=1.44
+requests>=2.31
+openai>=1.40
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+pyperclip>=1.8
+pypdf>=4.0
